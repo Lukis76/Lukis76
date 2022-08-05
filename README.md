@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Ruben Manoguerra</h1>
 <h3 align="center">Fullstrack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lucas-manoguerra-8b295623b/](https://www.linkedin.com/in/lucas-manoguerra-8b295623b/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lucas-r-manoguerra/](https://www.linkedin.com/in/lucas-r-manoguerra/)
 
 - 📫 How to reach me **kiu.manoguerra@gmail.com**
 
