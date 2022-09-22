@@ -2,7 +2,7 @@
 <h3 align="center">Fullstrack Developer</h3>
 
 
- Con una amplia predisposicion a parender y trabajar con tecnologias.
+ Con una amplia predisposicion a aprender y trabajar con tecnologias.
  Actualmente soy Fullstack Developer, con un contante crecimiento de mis habilidades y aptitudes
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lucas-r-manoguerra/](https://www.linkedin.com/in/lucas-r-manoguerra/)
