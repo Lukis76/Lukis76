@@ -15,7 +15,8 @@
 </p>
 
 <h3 align="left">💻 Technology Stack</h3> 
-<hr/>
+
+
 
 <p><strong>Programming Language: &nbsp </strong>Javascript |Typescript</p>
 
