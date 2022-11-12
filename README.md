@@ -24,10 +24,10 @@
 <p><strong>Web Tecnology: &nbsp </strong>HTML | CSS | Javascript </p>
 
 
-<p><strong>Database: &nbsp </strong>PstgresSQL | Mongodb | Mongoose | Prisma | Sequelize</p>
+<p><strong>Database: &nbsp </strong>PostgreSQL | Mongodb | Mongoose | Prisma | Sequelize</p>
 
 
-<p><strong>Framework/Library: &nbsp </strong>React | Redux | React Native | express | Nextjs | jest | Cypress | graphql | Tailwindcss | Nodejs </p>
+<p><strong>Framework/Library: &nbsp </strong>React | Redux | React Native | express | Nextjs | Jest | Cypress | GraphQL | Tailwindcss | Nodejs </p>
 
 
 <p><strong>Version Control: &nbsp </strong>Git</p>
