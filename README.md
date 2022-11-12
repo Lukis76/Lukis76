@@ -18,16 +18,16 @@
 
 
 
-<p><strong>Programming Language: &nbsp </strong>Javascript |Typescript</p>
+<p><strong>Programming Language: &nbsp </strong>Javascript |Typescript | Python</p>
 
 
-<p><strong>Web Tecnology: &nbsp </strong>HTML | CSS | Tailwind | Nodejs</p>
+<p><strong>Web Tecnology: &nbsp </strong>HTML | CSS | Javascript </p>
 
 
-<p><strong>Database: &nbsp </strong>PstgresSQL | Mongodb</p>
+<p><strong>Database: &nbsp </strong>PstgresSQL | Mongodb | Mongoose | Prisma | Sequelize</p>
 
 
-<p><strong>Framework/Library: &nbsp </strong>React | Redux | React Native | express | Next | jest | Cypress | graphql</p>
+<p><strong>Framework/Library: &nbsp </strong>React | Redux | Rect | React Native | express | Nextjs | jest | Cypress | graphql | Tailwindcss | Nodejs </p>
 
 
 <p><strong>Version Control: &nbsp </strong>Git</p>
