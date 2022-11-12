@@ -30,7 +30,7 @@
 <p><strong>Framework/Library: &nbsp </strong>React | Redux | React Native | express | Next | jest | Cypress | graphql</p>
 
 
-<p><strong>Version Control: &nbsp </strong>Javascript |Typescript</p>
+<p><strong>Version Control: &nbsp </strong>Git</p>
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@LucasManoguerra/74af34d9-bf79-4751-b4ab-64fb96f81cd8.png" /></a>
