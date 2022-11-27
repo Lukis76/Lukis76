@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lucas Ruben Manoguerra</h1>
+<h1 align="center">Hola 👋, soy Lucas Ruben Manoguerra</h1>
 <h3 align="center">Fullstrack Developer</h3>
 
 
- Una amplia predisposicion a aprender y trabajar con tecnologias me define.
- Actualmente soy Fullstack Developer, con un contante crecimiento de mis habilidades blandas y aptitudes
+me encanta al programación y siempre estoy tratando de integrar nuevas habilidades a mi background.
+Estoy preparado para utilizar mis habilidades y pasión para impulsar la misión de una compañía. Tecnológicamente hábil.
+Aporto actitud positiva, voluntad y motivación para aprender nuevos habilidades.
+Trabaje en varios proyectos con compañeros, que realmente me ayudaron a aprender no solo habilidades en cuanto al desarrollo web, sino que también a trabajar en equipo y poder desenvolverme en un grupo de trabajo. 💼
+
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lucas-r-manoguerra/](https://www.linkedin.com/in/lucas-r-manoguerra/)
 
